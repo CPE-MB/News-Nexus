@@ -4,7 +4,7 @@ Dynamic Website: News, Weather Forecast, and Live Chat
 ## Overview
 This project is a dynamic single-page website that provides up-to-date news, weather forecasts, and a live chat feature. It is built using JavaScript for dynamic content updates, integrates multiple web APIs, and uses WebSockets for real-time communication.
 
-![Website Overview](screenshots/overview.png)
+![Website Overview](screenshots/overview.jpg)
 
 ## Features
 ### News
@@ -19,7 +19,7 @@ This project is a dynamic single-page website that provides up-to-date news, wea
 - *Dynamic Display*: Shows current weather conditions and forecasts.
 - *Error Handling*: Handles errors in fetching weather data and notifies the user.
 
-![News Feature](screenshots/weather.png)
+![News Feature](screenshots/newss.png)
 
 ### Live Chat
 - *WebSocket Integration*: Enables real-time chat functionality using WebSockets.
