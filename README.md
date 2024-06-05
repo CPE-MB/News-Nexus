@@ -48,14 +48,7 @@ This project is a dynamic single-page website that provides up-to-date news, wea
 3. Install the dependencies:
    
    npm install
-
-### Running the Application
-1. Start the development server:
    
-   npm start
-   
-2. Open your browser and navigate to http://localhost:8080.
-
 ## Usage
 
 ### News
