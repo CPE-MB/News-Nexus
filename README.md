@@ -12,14 +12,14 @@ This project is a dynamic single-page website that provides up-to-date news, wea
 - *Dynamic Display*: Displays news articles dynamically on the web page.
 - *Error Handling*: Manages API request failures gracefully.
 
-![News Feature](screenshots/news.jpg)
+![News Feature](screenshots/newss.jpg)
 
 ### Weather Forecast
 - *API Integration*: Retrieves weather data using the Weather API.
 - *Dynamic Display*: Shows current weather conditions and forecasts.
 - *Error Handling*: Handles errors in fetching weather data and notifies the user.
 
-![News Feature](screenshots/newss.jpg)
+![News Feature](screenshots/news.jpg)
 
 ### Live Chat
 - *WebSocket Integration*: Enables real-time chat functionality using WebSockets.
