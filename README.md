@@ -54,7 +54,7 @@ This project is a dynamic single-page website that provides up-to-date news, wea
    
    npm start
    
-2. Open your browser and navigate to http://localhost:3000.
+2. Open your browser and navigate to http://localhost:8080.
 
 ## Usage
 
