@@ -254,7 +254,7 @@ document.addEventListener('DOMContentLoaded', () => {
             element.classList.remove("active");
         });
 
-        requestURL = https://newsapi.org/v2/top-headlines?country=${country}&pageSize=50&category=${category}&apiKey=${apiKey};
+        requestURL = `https://newsapi.org/v2/top-headlines?country=${country}&pageSize=50&category=${category}&apiKey=${apiKey}`;
         event.target.classList.add("active");
         getNews();
     };
