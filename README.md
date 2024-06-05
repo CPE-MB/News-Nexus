@@ -43,7 +43,7 @@ This project is a dynamic single-page website that provides up-to-date news, wea
  git clone https://github.com/CPE-MB/News-Nexus.git
 2. Navigate to the project directory:
    
-   cd your-repo-name
+   cd News-Nexus
    
 3. Install the dependencies:
    
@@ -54,10 +54,12 @@ This project is a dynamic single-page website that provides up-to-date news, wea
 ### News
 - The latest news articles will be fetched and displayed on the main page.
 - Click on an article title to read the full article.
+- users can select headlines base on the categories provided 
 
 ### Weather Forecast
 - Enter a city name in the search bar to get the current weather and forecast.
 - The weather data will be displayed dynamically on the page.
+- Button on for Automatic Current Location
 
 ### Live Chat
 - Enter your username to join the chat.
